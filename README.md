@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
     <body>
         <div>
@@ -22,9 +21,6 @@
                     <p>I have a strong curiosity and a deep passion for learning new things, especially in the field of IT and programming languages.</p>
                 </div>
             </section>
-            ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=arm02&count_private=true&show_icons=true&theme=graywhite)
-            ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arm02&layout=compact&theme=graywhite)
-            ---
             <hr />
             <section>
                 <div>
@@ -343,3 +339,8 @@
         </div>
     </body>
 </html>
+
+## GitHub Activity
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=arm02&count_private=true&count_public=true&show_icons=true&theme=graywhite&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arm02&layout=normal&theme=graywhite)
