@@ -7,6 +7,12 @@
                     <h1>
                         Adrian Milano, S.Pd
                     </h1>
+                    <a href="https://github.com/soffanma28">
+                        <img src="https://img.shields.io/github/followers/arm02?label=Followers&style=social" alt="GitHub Followers">
+                      </a>
+                      <a href="https://github.com/arm02?tab=repositories">
+                        <img src="https://img.shields.io/badge/Repos-%E2%98%85%20%20-6e5494" alt="GitHub Repositories">
+                      </a>
                     <div>
                         Kramat Jati, Jakarta Timur · (+62) 8112-175-175 ·
                         <a href="mailto:arm.adrian02@gmail.com">arm.adrian02@gmail.com</a>
@@ -16,6 +22,9 @@
                     <p>I have a strong curiosity and a deep passion for learning new things, especially in the field of IT and programming languages.</p>
                 </div>
             </section>
+            ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=arm02&count_private=true&show_icons=true&theme=graywhite)
+            ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arm02&layout=compact&theme=graywhite)
+            ---
             <hr />
             <section>
                 <div>
