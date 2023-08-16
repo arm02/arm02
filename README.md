@@ -118,10 +118,10 @@
                     <h2 class="mb-5">Skills</h2>
                     <div class="subheading mb-3">Programming Languages & Tools</div>
                     <ul class="list-inline dev-icons">
-                        <li class="list-inline-item"><i class="fab fa-laravel"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-angular"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-node-js"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-android"></i></li>
+                        <li class="list-inline-item">Angular</li>
+                        <li class="list-inline-item">React JS</li>
+                        <li class="list-inline-item">Next Js</li>
+                        <li class="list-inline-item">Node Js</li>
                         <li class="list-inline-item"><i class="fab fa-golang"></i></li>
                         <li class="list-inline-item"><i class="fab fa-php"></i></li>
                         <li class="list-inline-item"><i class="fab fa-java"></i></li>
