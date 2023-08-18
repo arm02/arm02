@@ -6,7 +6,7 @@
                     <h1>
                         Adrian Milano, S.Pd
                     </h1>
-                    <a href="https://github.com/soffanma28">
+                    <a href="https://github.com/arm02">
                         <img src="https://img.shields.io/github/followers/arm02?label=Followers&style=social" alt="GitHub Followers">
                       </a>
                       <a href="https://github.com/arm02?tab=repositories">
